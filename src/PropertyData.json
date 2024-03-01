@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Cozy Apartment",
+      "location": "palarivattom, ernakulam",
+      "price": 20,
+      "imageUrl": "./images/p-1.png",
+      "type": "House/Apartment"
+
+    },
+    {
+      "id": 2,
+      "name": "Modern House",
+      "location": "Taliparamba, Kannur",
+      "price": 30,
+      "imageUrl": "./images/p-2.png",
+      "type": "House/Apartment"
+
+    },
+    {
+      "id": 3,
+      "name": "New Arch",
+      "location": "Mukkam, Kozhikode",
+      "price": 40,
+      "imageUrl": "./images/p-4.png",
+      "type": "House/Apartment"
+
+    },
+    {
+      "id": 4,
+      "name": "Code Geas",
+      "location": "Pondichery, Tamil Nadu",
+      "price": 50,
+      "imageUrl": "./images/p-5.png",
+      "type": "House/Apartment"
+
+    },
+    {
+      "id": 5,
+      "name": "Beauty",
+      "location": "Mukkam, Kozhikode",
+      "price": 60,
+      "imageUrl": "./images/p-6.png",
+      "type": "House/Apartment"
+
+    },
+    {
+      "id": 6,
+      "name": "SuprA",
+      "location": "XXX, New Delhi",
+      "price": 70,
+      "imageUrl": "./images/p-7.png",
+      "type": "House/Apartment"
+
+    },
+    {
+      "id": 7,
+      "name": "Comm-ercial",
+      "location": "XXX, New Delhi",
+      "price": 80,
+      "imageUrl": "./images/p-8.jpg",
+      "type": "Commercial_Property"
+
+    },{
+      "id": 8,
+      "name": "Industry",
+      "location": "YYY, Gujarath",
+      "price": 90,
+      "imageUrl": "./images/p-9.jpg",
+      "type": "Industrial_Property"
+
+    },{
+      "id": 9,
+      "name": "Land",
+      "location": "ZZZ, Tamil Nadu",
+      "price": 100,
+      "imageUrl": "./images/p-10.jpg",
+      "type": "Land"
+
+    }
+
+  ]
